@@ -29,12 +29,12 @@ Full rubric: [`checklist/audit-checklist.md`](./checklist/audit-checklist.md).
 | Phase | Status |
 |---|---|
 | D1 — Hypothesis, checklist, target seed list | done |
-| D2 — Scanner script | pending |
-| D3 — Run audit on ~100 targets | pending |
-| D4 — Deep-dive 20 cases | pending |
-| D5 — Findings write-up | pending |
-| D6 — Repo cleanup, dataset publish | pending |
-| D7 — Public release (Show HN, Reddit, X) | pending |
+| D2 — Scanner script | done |
+| D3 — Run audit on 100 targets | done (avg 6.3 / 100) |
+| D4 — Deep-dive notable cases (Tavily, Agentic.Market) | done |
+| D5 — Findings write-up | done — see [`reports/findings.md`](./reports/findings.md) |
+| D6 — Repo cleanup, dataset publish | done |
+| D7 — Public release (Show HN, Reddit, X) | scheduled |
 
 ## How to read this repo
 
