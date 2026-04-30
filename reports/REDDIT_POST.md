@@ -70,6 +70,8 @@ TL;DR I ran a 10-item, 100-point HTTP audit against 100 of the most-cited AI age
 2. Tell me what you think the *actual* problem is — if any.
 3. Specifically: does anyone here actually need their agent to be discoverable to other agents *today*? Or is this all theater for 2027?
 
+If a tool that fixes the missing manifest files and submits to the major registries would be useful to you, I'm collecting interest here: https://tally.so/r/yP0KaB?source=reddit (no newsletter, ping only if it ships).
+
 Code MIT, data CC BY 4.0. Reproduce, dispute, fork.
 ```
 

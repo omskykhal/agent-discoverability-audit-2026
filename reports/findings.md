@@ -166,6 +166,12 @@ If you ship an agent-facing product or piece of infrastructure, the cheapest cre
 
 You will not get marketing lift from this in 2026. You will, plausibly, get a measurable edge in 2027 when agent-driven traffic becomes a non-zero fraction of B2B API calls.
 
+## Want to know if this becomes a tool?
+
+I'm running a 14-day test to see if anyone actually wants a tool that fixes the missing manifest files and submits agents to the major registries. If that would be useful to you, drop your email: **[tally.so/r/yP0KaB](https://tally.so/r/yP0KaB)**. I'll only email you if it ships. No newsletter, no spam.
+
+If you don't want to share an email but want to vote with a star, that also works: [⭐ this repo](https://github.com/omskykhal/agent-discoverability-audit-2026).
+
 ## Reproducing
 
 The full dataset, scanner, and methodology are in this repository under MIT (code) and CC BY 4.0 (data, reports). To run the audit on your own URL:

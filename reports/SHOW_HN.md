@@ -78,9 +78,9 @@ Don't argue. The comment is right. The report's value is the *measurement*, not 
 
 **Best response:**
 
-> That's the test I'm running with this post. If a critical mass of people ask, I'll build it. If they don't, I won't. Drop your email at [waitlist link if you set one up] and I'll ping you only if it ships.
+> That's the test I'm running with this post. If a critical mass of people ask, I'll build it. If they don't, I won't. Drop your email here and I'll ping you only if it ships: https://tally.so/r/yP0KaB?source=hn
 
-This is the conversion moment. Have a waitlist URL ready (Tally / Beehiiv / a Google Form).
+This is the conversion moment. Waitlist URL is live. Use the `?source=hn` parameter so HN-driven sign-ups can be tracked separately.
 
 ## Timing
 

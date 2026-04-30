@@ -106,18 +106,18 @@ The category that has been loudest about agents transacting onchain has the wors
 
 ---
 
-## 7/7 — The repo
+## 7/7 — The repo + waitlist
 
 ```
-Full data, scanner code, and methodology:
+Full data, scanner code, methodology:
 github.com/omskykhal/agent-discoverability-audit-2026
 
-Code MIT, data CC BY 4.0. Reproduce, dispute, fork.
+If a tool to fix the missing files + auto-submit to registries would be useful: tally.so/r/yP0KaB?source=twitter
 
-If your project scored low and you think the score is wrong, open an issue. I'll rescan and update.
+Code MIT, data CC BY 4.0. If you scored low and disagree, open an issue.
 ```
 
-(252 chars)
+(279 chars)
 
 ---
 

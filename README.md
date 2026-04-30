@@ -10,6 +10,8 @@ This repository is the public artifact of a one-week test of that hypothesis. It
 
 See [`hypothesis.md`](./hypothesis.md) for the full statement and the Go/No-Go gate.
 
+> 📬 If a tool that fixes the missing manifest files and submits to major agent registries would be useful to you, drop your email here: [tally.so/r/yP0KaB](https://tally.so/r/yP0KaB). I'll only ping if it ships. No newsletter, no spam.
+
 ## What we measure
 
 Each target is scored 0–100 against a 10-item checklist covering the public discoverability standards an autonomous agent would actually look for:
