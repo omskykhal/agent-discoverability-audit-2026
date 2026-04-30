@@ -1,0 +1,101 @@
+id,name,url,category,source,notes
+1,LangChain,https://www.langchain.com,framework,well-known,Agent orchestration framework
+2,LlamaIndex,https://www.llamaindex.ai,framework,well-known,RAG / agent framework
+3,CrewAI,https://www.crewai.com,framework,well-known,Multi-agent orchestration
+4,AutoGen (Microsoft),https://microsoft.github.io/autogen,framework,well-known,Multi-agent conversation
+5,SuperAGI,https://superagi.com,framework,well-known,Open-source autonomous agent
+6,AgentGPT,https://agentgpt.reworkd.ai,product,well-known,Browser-based autonomous agent
+7,Devin (Cognition),https://www.cognition.ai,product,well-known,Autonomous software engineer
+8,Lindy,https://www.lindy.ai,product,well-known,Personal AI assistants
+9,MultiOn,https://www.multion.ai,product,well-known,Web-action agents
+10,Adept,https://www.adept.ai,product,well-known,Action transformer
+11,Fixie,https://www.fixie.ai,platform,well-known,Agent platform
+12,Voiceflow,https://www.voiceflow.com,platform,well-known,Conversation agents
+13,Stack AI,https://www.stack-ai.com,platform,well-known,No-code agents
+14,Vellum,https://www.vellum.ai,platform,well-known,Agent dev platform
+15,Dify,https://dify.ai,platform,well-known,Open-source LLM app platform
+16,n8n,https://n8n.io,platform,well-known,Workflow automation w/ AI
+17,Composio,https://composio.dev,tools,well-known,Tool integration for agents
+18,E2B,https://e2b.dev,infra,well-known,Code interpreter sandbox
+19,Modal,https://modal.com,infra,well-known,Compute for agents
+20,Mem0,https://mem0.ai,memory,well-known,Memory layer for agents
+21,Letta,https://www.letta.com,memory,well-known,Stateful agents (was MemGPT)
+22,Zep,https://www.getzep.com,memory,well-known,Long-term memory
+23,Helicone,https://www.helicone.ai,observability,well-known,LLM observability
+24,LangSmith,https://smith.langchain.com,observability,well-known,Agent tracing
+25,AgentOps,https://www.agentops.ai,observability,well-known,Agent monitoring
+26,Browser Use,https://browser-use.com,tools,well-known,Browser-driving agents
+27,Open Interpreter,https://www.openinterpreter.com,product,well-known,Local code execution agent
+28,Aider,https://aider.chat,product,well-known,AI pair programmer
+29,Cursor,https://www.cursor.com,product,well-known,AI code editor
+30,Replit Agent,https://replit.com,product,well-known,Build apps via agent
+31,Moltbook,https://moltbook.com,community,prior-research,Social network for AI agents
+32,Agentic.Market,https://agentic.market,marketplace,prior-research,x402 service marketplace
+33,Fetch.ai Agentverse,https://agentverse.ai,marketplace,prior-research,Agent directory
+34,Nevermined,https://nevermined.ai,payments,prior-research,Agent payment infrastructure
+35,A2A Registry,https://www.a2aregistry.org,registry,prior-research,A2A-compliant agent registry
+36,HuggingFace,https://huggingface.co,platform,well-known,Model + agent hub
+37,Langflow,https://www.langflow.org,framework,well-known,Visual agent builder
+38,Flowise,https://flowiseai.com,framework,well-known,Open-source visual LLM apps
+39,Haystack (deepset),https://haystack.deepset.ai,framework,well-known,RAG / agent framework
+40,Botpress,https://botpress.com,platform,well-known,Conversational AI platform
+41,Mastra,https://mastra.ai,framework,well-known,TypeScript agent framework
+42,Pydantic AI,https://ai.pydantic.dev,framework,well-known,Python typed agent framework
+43,BeeAI,https://beeai.dev,framework,well-known,IBM agent framework
+44,CamelAI,https://www.camel-ai.org,framework,well-known,Multi-agent role-playing
+45,v0,https://v0.dev,product,well-known,Vercel AI UI generator
+46,Bolt.new,https://bolt.new,product,well-known,StackBlitz AI app builder
+47,Lovable,https://lovable.dev,product,well-known,AI app generator
+48,Sweep AI,https://sweep.dev,product,well-known,AI software engineer
+49,Manus,https://manus.im,product,well-known,General-purpose AI agent
+50,Pi,https://pi.ai,product,well-known,Inflection AI assistant
+51,Character.AI,https://character.ai,product,well-known,Character chatbot platform
+52,You.com,https://you.com,product,well-known,AI search assistant
+53,Phind,https://www.phind.com,product,well-known,AI dev search
+54,Perplexity,https://www.perplexity.ai,product,well-known,AI answer engine
+55,Kagi,https://kagi.com,product,well-known,Premium AI search
+56,Glean,https://www.glean.com,product,well-known,Enterprise AI search
+57,Hebbia,https://www.hebbia.com,product,well-known,Enterprise research agent
+58,Decagon,https://decagon.ai,product,well-known,AI customer support agent
+59,Sierra,https://sierra.ai,product,well-known,Conversational AI for business
+60,Olas (Autonolas),https://olas.network,crypto-agent,well-known,Crypto autonomous agents
+61,Virtuals Protocol,https://www.virtuals.io,crypto-agent,well-known,On-chain AI agents
+62,Story Protocol,https://www.story.foundation,crypto-agent,well-known,IP for AI / agents
+63,ElizaOS,https://elizaos.ai,crypto-agent,well-known,Eliza agent runtime
+64,Bittensor,https://bittensor.com,crypto-agent,well-known,Decentralized AI network
+65,SingularityNET,https://singularitynet.io,crypto-agent,well-known,Decentralized AI marketplace
+66,Ocean Protocol,https://oceanprotocol.com,crypto-agent,well-known,Data/AI marketplace
+67,Theoriq,https://www.theoriq.ai,crypto-agent,well-known,Agent base layer
+68,ChainGPT,https://www.chaingpt.org,crypto-agent,well-known,AI for crypto
+69,Fetch.ai,https://fetch.ai,crypto-agent,well-known,Agent network
+70,Hyperbolic,https://hyperbolic.xyz,infra,well-known,Decentralized GPU
+71,Together AI,https://www.together.ai,infra,well-known,Inference platform
+72,Replicate,https://replicate.com,infra,well-known,Run ML models via API
+73,mcp.so,https://mcp.so,registry,well-known,MCP server directory
+74,Smithery,https://smithery.ai,registry,well-known,MCP marketplace
+75,Pulse MCP,https://www.pulsemcp.com,registry,well-known,MCP server registry
+76,Continue.dev,https://www.continue.dev,product,well-known,Open-source AI code assistant
+77,Cline,https://cline.bot,product,well-known,VSCode AI agent
+78,Langfuse,https://langfuse.com,observability,well-known,LLM engineering platform
+79,Phoenix (Arize),https://phoenix.arize.com,observability,well-known,LLM observability
+80,Athina AI,https://www.athina.ai,observability,well-known,LLM evaluation
+81,Patronus AI,https://www.patronus.ai,observability,well-known,LLM evaluation/safety
+82,Vapi,https://vapi.ai,voice,well-known,Voice AI platform
+83,Bland.ai,https://www.bland.ai,voice,well-known,Phone calling agents
+84,Retell,https://www.retellai.com,voice,well-known,Voice agents
+85,Synthflow,https://synthflow.ai,voice,well-known,Voice AI builder
+86,11x.ai,https://www.11x.ai,sales,well-known,Digital sales workers
+87,Ema,https://www.ema.co,sales,well-known,Universal AI employee
+88,Ada,https://www.ada.cx,support,well-known,AI customer service
+89,Maven AGI,https://www.mavenagi.com,support,well-known,Enterprise CX agents
+90,Forethought,https://forethought.ai,support,well-known,Generative customer support AI
+91,BrowserBase,https://www.browserbase.com,tools,well-known,Headless browser for agents
+92,AgentQL,https://www.agentql.com,tools,well-known,Web data API for agents
+93,Tavily,https://tavily.com,tools,well-known,Search API for agents
+94,Exa,https://exa.ai,tools,well-known,Search API for AI
+95,SerpAPI,https://serpapi.com,tools,well-known,Search engine results API
+96,Hyperbrowser,https://hyperbrowser.ai,tools,well-known,Browser infra for agents
+97,Stagehand (BrowserBase),https://www.stagehand.dev,tools,well-known,AI web browsing framework
+98,ScrapeGraphAI,https://scrapegraphai.com,tools,well-known,LLM-based scraping
+99,LangGraph,https://www.langchain.com/langgraph,framework,well-known,Stateful agent graphs
+100,Anthropic Computer Use,https://www.anthropic.com,product,well-known,Claude computer use
